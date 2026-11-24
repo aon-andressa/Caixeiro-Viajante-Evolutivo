@@ -1,8 +1,10 @@
 # Caixeiro-Viajante-Evolutivo
 INTEGRANTES E USUÁRIOS DO GITHUB
 
-Ana Clara Costa - @AnaCostaSilva-Dev \n
+Ana Clara Costa - @AnaCostaSilva-Dev 
+
 Andressa Oliveira - @aon-andressa
+
 
 HISTÓRICO DE COMMITS:
 8646e75a Initial commit
